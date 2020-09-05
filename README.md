@@ -1,2 +1,2 @@
-# Microservices-Ecosystem-with-Kafka-Streams-and-KSQL
-Microservices Ecosystem with Kafka Streams and KSQL
+# Real-time Streaming Applications Using .NET Core and Kafka
+
